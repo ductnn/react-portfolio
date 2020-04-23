@@ -9,38 +9,38 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
+              src="/img/D_title.png"
               alt="avatar"
               className="avatar-img"
               />
 
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+              <h1>Developer</h1>
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+          <p>Python | Django | JavaScript | React | NodeJS | Express | MongoDB</p>
 
         <div className="social-links">
 
-          {/* LinkedIn */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-linkedin-square" aria-hidden="true" />
+          {/* Facebook */}
+          <a href="https://facebook.com/ductn.network" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-facebook" aria-hidden="true" />
           </a>
 
           {/* Github */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-github-square" aria-hidden="true" />
-          </a>
+          <a href="https://github.com/ductnn" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-github" aria-hidden="true" />
+          </a> 
 
-          {/* Freecodecamp */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-free-code-camp" aria-hidden="true" />
-          </a>
+          {/* LinkedIn */}
+          <a href="https://www.linkedin.com/in/ductnn/" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-linkedin" aria-hidden="true" />
+          </a>             
 
-          {/* Youtube */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-youtube-square" aria-hidden="true" />
+          {/* Instagram */}
+          <a href="https://instagram.com/ductn4" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-instagram" aria-hidden="true" />
           </a>
 
         </div>
