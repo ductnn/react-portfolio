@@ -9,7 +9,7 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://github.com/ductnn/react-portfolio/blob/master/public/img/D_title.png"
+              src="./img/D_title.png"
               alt="avatar"
               className="avatar-img"
               />
