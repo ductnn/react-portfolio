@@ -12,19 +12,19 @@ class Landing extends Component {
               src="./img/D_title.png"
               alt="avatar"
               className="avatar-img"
-              />
+            />
 
             <div className="banner-text">
-              <h1>Developer</h1>
-
+              <h1>DevOps/Cloud Engineer</h1>
+              <h1>☁☁☁</h1>
             <hr/>
 
-          <p>Python | Django | JavaScript | React | NodeJS | Express | MongoDB</p>
+          <p>Python | Django | JavaScript | NodeJS | Docker | Kubernetes | CI/CD</p>
 
         <div className="social-links">
 
           {/* Facebook */}
-          <a href="https://facebook.com/ductn.network" rel="noopener noreferrer" target="_blank">
+          <a href="https://facebook.com/ductn53" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-facebook" aria-hidden="true" />
           </a>
 
