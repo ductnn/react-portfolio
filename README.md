@@ -1,8 +1,14 @@
-# React-portfolio
+---
+title: Create portfolio using ReactJS
+---
 
-# Start App
-Clone repo, install, cd into folder and run:
-```git
+# Install
+
+```bash
+git clone https://github.com/ductnn/react-portfolio.git
+cd react-portfolio
 npm install
 npm start
 ```
+
+[me](https://ductn.info)
