@@ -5,7 +5,7 @@ import { Grid, Cell } from 'react-mdl';
 class Landing extends Component {
   render() {
     return(
-      <div style={{width: '100%', margin: 'auto'}}>
+      <div style={{width: '100%', margin: '100%'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
@@ -17,9 +17,9 @@ class Landing extends Component {
             <div className="banner-text">
               <h1>Cloud Engineer</h1>
               <h1>☁☁☁</h1>
-            <hr/>
+            {/* <hr/> */}
 
-          <p>Python | Django | JavaScript | NodeJS | Docker | Kubernetes | CI/CD</p>
+          {/* <p>Python | Django | JavaScript | NodeJS | Docker | Kubernetes | CI/CD</p> */}
 
         <div className="social-links">
 
