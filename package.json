@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ductnn.github.io/React-portfolio",
-  "name": "myportfoliosite",
+  "homepage": "https://ductnn.github.io/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +7,7 @@
     "react-dom": "^16.2.0",
     "react-mdl": "^1.11.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.0"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "predeploy": "npm run build",

@@ -9,7 +9,7 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="/img/D_title.png"
+              src="https://github.com/ductnn/react-portfolio/blob/master/public/img/D_title.png"
               alt="avatar"
               className="avatar-img"
               />
@@ -39,7 +39,7 @@ class Landing extends Component {
           </a>             
 
           {/* Instagram */}
-          <a href="https://instagram.com/ductn4" rel="noopener noreferrer" target="_blank">
+          <a href="https://instagram.com/ductn_" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-instagram" aria-hidden="true" />
           </a>
 
