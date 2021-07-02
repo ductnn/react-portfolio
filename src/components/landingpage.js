@@ -15,7 +15,7 @@ class Landing extends Component {
             />
 
             <div className="banner-text">
-              <h1>DevOps/Cloud Engineer</h1>
+              <h1>Cloud Engineer</h1>
               <h1>☁☁☁</h1>
             <hr/>
 
@@ -41,6 +41,11 @@ class Landing extends Component {
           {/* Instagram */}
           <a href="https://instagram.com/ductn_" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-instagram" aria-hidden="true" />
+          </a>
+
+          {/* Pinterest */}
+          <a href="https://pinterest.com/ductn_" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-pinterest" aria-hidden="true" />
           </a>
 
         </div>
